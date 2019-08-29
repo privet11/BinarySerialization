@@ -1,0 +1,14 @@
+c:\users\andriy\documents\visual studio 2015\Projects\RiznykApp\RiznykApp\bin\Debug\RiznykApp.exe.config
+c:\users\andriy\documents\visual studio 2015\Projects\RiznykApp\RiznykApp\bin\Debug\RiznykApp.exe
+c:\users\andriy\documents\visual studio 2015\Projects\RiznykApp\RiznykApp\bin\Debug\RiznykApp.pdb
+c:\users\andriy\documents\visual studio 2015\Projects\RiznykApp\RiznykApp\obj\Debug\RiznykApp.csprojResolveAssemblyReference.cache
+c:\users\andriy\documents\visual studio 2015\Projects\RiznykApp\RiznykApp\obj\Debug\MainWindow.g.cs
+c:\users\andriy\documents\visual studio 2015\Projects\RiznykApp\RiznykApp\obj\Debug\App.g.cs
+c:\users\andriy\documents\visual studio 2015\Projects\RiznykApp\RiznykApp\obj\Debug\RiznykApp_MarkupCompile.cache
+c:\users\andriy\documents\visual studio 2015\Projects\RiznykApp\RiznykApp\obj\Debug\RiznykApp_MarkupCompile.lref
+c:\users\andriy\documents\visual studio 2015\Projects\RiznykApp\RiznykApp\obj\Debug\MainWindow.baml
+c:\users\andriy\documents\visual studio 2015\Projects\RiznykApp\RiznykApp\obj\Debug\RiznykApp.g.resources
+c:\users\andriy\documents\visual studio 2015\Projects\RiznykApp\RiznykApp\obj\Debug\RiznykApp.Properties.Resources.resources
+c:\users\andriy\documents\visual studio 2015\Projects\RiznykApp\RiznykApp\obj\Debug\RiznykApp.csproj.GenerateResource.Cache
+c:\users\andriy\documents\visual studio 2015\Projects\RiznykApp\RiznykApp\obj\Debug\RiznykApp.exe
+c:\users\andriy\documents\visual studio 2015\Projects\RiznykApp\RiznykApp\obj\Debug\RiznykApp.pdb
